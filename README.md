@@ -15,4 +15,6 @@ Command | Action
 
 ## Future Plans:
 
-* Write C and Go versions
+* Write C and Go, etc. versions?
+* Change wallpaper color?
+* `Mod+F4` to quit/close current window?
